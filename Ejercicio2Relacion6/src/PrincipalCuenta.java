@@ -5,7 +5,7 @@ public class PrincipalCuenta {
 	private static Scanner teclado = new Scanner(System.in);
 
 	public static void main(String[] args) {
-
+		// VARIABLES
 		int opcion;
 		double saldoInicial;
 		Cuenta cuenta = null;
