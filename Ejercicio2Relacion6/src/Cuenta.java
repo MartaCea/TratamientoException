@@ -16,7 +16,7 @@ public class Cuenta {
 	private int contadorIngresos;
 	private int contadorReintegros;
 
-	// Contructores
+	// Contructor
 	
 	public Cuenta() {
 		saldo = 0;
